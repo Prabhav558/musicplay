@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "881231813947",
+    "project_id": "musicplay-a6b40",
+    "storage_bucket": "musicplay-a6b40.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881231813947:android:59596f1a76c78539e8ab1e",
+        "android_client_info": {
+          "package_name": "com.example.musicplay"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqvvaD1lsnY91nnQg_hQrvZbtf8wrVfvQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
